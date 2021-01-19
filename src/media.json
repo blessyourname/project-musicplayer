@@ -1,0 +1,65 @@
+{
+  "c8ef0367-e991-4d95-b80c-366a7c1302ea": {
+    "title": "Balada do Buteco",
+    "artist": "Gusttavo Lima",
+    "length": "2:45"
+  },
+  "0da1827a-4097-4fd9-9e7d-bd074402eaf8": {
+    "title": "Espetinho",
+    "artist": "Gusttavo Lima",
+    "length": "2:57"
+  },
+  "6253424c-bdb5-4b36-b479-a628ec3dcac5": {
+    "title": "Lance Individual",
+    "artist": "Jorge & Mateus",
+    "length": "2:43"
+  },
+  "3e19fdc7-ce3b-4487-83a8-1e7510dd4ee6": {
+    "title": "RAZÃO DAS MINHAS BIRITAS",
+    "artist": "Luíza e Maurílio",
+    "length": "3:10"
+  },
+  "566d252c-377c-4a8d-8723-b98a638a0477": {
+    "title": "Ponta Solta",
+    "artist": "Maiara e Maraisa",
+    "length": "3:00"
+  },
+  "8b49ac7e-c0e0-41ce-8e87-bb652b2ae64a": {
+    "title": "Deprê",
+    "artist": "Marília Mendonça",
+    "length": "3:04"
+  },
+  "d61c71fe-3565-4e8a-92aa-fecb39ec05f8": {
+    "title": "Foi Por Conveniência",
+    "artist": "Marília Mendonça",
+    "length": "3:26"
+  },
+  "9df0c916-4ce2-45f3-bf32-2b4af5ed1e4c": {
+    "title": "Foi Pá Pum",
+    "artist": "Simone & Simaria",
+    "length": "3:03"
+  },
+  "21a76764-7087-4edd-9461-c0e7b03b9b76": {
+    "title": "Surra de Cama",
+    "artist": "Xand Avião e Lauana Prado",
+    "length": "2:53"
+  },
+  "3e09e777-4b34-4e15-b61b-c15dc9111a7a": {
+    "title": "Virginia",
+    "artist": "Zé Felipe",
+    "length": "2:28"
+  },
+
+  "ids": [
+    "c8ef0367-e991-4d95-b80c-366a7c1302ea",
+    "0da1827a-4097-4fd9-9e7d-bd074402eaf8",
+    "6253424c-bdb5-4b36-b479-a628ec3dcac5",
+    "3e19fdc7-ce3b-4487-83a8-1e7510dd4ee6",
+    "566d252c-377c-4a8d-8723-b98a638a0477",
+    "8b49ac7e-c0e0-41ce-8e87-bb652b2ae64a",
+    "d61c71fe-3565-4e8a-92aa-fecb39ec05f8",
+    "9df0c916-4ce2-45f3-bf32-2b4af5ed1e4c",
+    "21a76764-7087-4edd-9461-c0e7b03b9b76",
+    "3e09e777-4b34-4e15-b61b-c15dc9111a7a"
+  ]
+}
